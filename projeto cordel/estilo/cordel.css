@@ -44,15 +44,16 @@ a:hover{
 
 /* CORPO */
 html, body {
-    min-height: 96vh;
+    min-height: 100vh;
+
 }
 
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2;
+    line-height: 2em;
     padding-left: 35px;
-    width: 96vw;
+    
 }
 
 section.normal{
@@ -79,7 +80,7 @@ section.imagem{
     background-attachment: fixed;
     background-size: cover;
     box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.342);
-    width: 96vw;
+    
 
 }
 
